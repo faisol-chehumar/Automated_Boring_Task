@@ -5,3 +5,4 @@ cd /Applications/MAMP/bin && ./start.sh && terminal-notifier -title "Terminal" -
 open -a ClickUp
 open -a Sourcetree
 open -a Slack
+open -a Sequel Pro

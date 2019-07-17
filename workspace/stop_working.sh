@@ -5,3 +5,4 @@ cd /Applications/MAMP/bin && ./stop.sh && terminal-notifier -title "Terminal" -m
 osascript -e 'quit app "ClickUp"'
 osascript -e 'quit app "Sourcetree"'
 osascript -e 'quit app "Slack"'
+osascript -e 'quit app "Sequel Pro"'
